@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594082596 source:c:\users\liha_\onedrive - fatec centro paula souza\recover1\arquivos thalia\fatec2semestre\linguagemprogramacao\tarefaavaliativa2\contabancariaproj3\projeto3.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
